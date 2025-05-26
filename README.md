@@ -87,7 +87,7 @@ This project is open-source and available under the [MIT License](LICENSE.md).
 
 ## Author
 
-[Your Name/GitHub Username]
+Saramo Layefa - github.com/Layefasaramo
 
 ---
 
