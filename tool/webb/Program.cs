@@ -13,6 +13,7 @@ int playerY = 1;
 // Console position of the food
 int foodX = 1;
 int foodY = 1;
+//hekkko
 
 // Available player and food strings
 string[] states = {"('-')", "(^-^)", "(X_X)"};
