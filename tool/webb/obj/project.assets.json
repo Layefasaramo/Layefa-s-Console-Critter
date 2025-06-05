@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LAYEFA\\Document\\tool\\webb\\webb.csproj",
+      "projectUniqueName": "C:\\Users\\LAYEFA\\Document\\tool\\Layefa-s-Console-Critter\\tool\\webb\\webb.csproj",
       "projectName": "webb",
-      "projectPath": "C:\\Users\\LAYEFA\\Document\\tool\\webb\\webb.csproj",
+      "projectPath": "C:\\Users\\LAYEFA\\Document\\tool\\Layefa-s-Console-Critter\\tool\\webb\\webb.csproj",
       "packagesPath": "C:\\Users\\LAYEFA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LAYEFA\\Document\\tool\\webb\\obj\\",
+      "outputPath": "C:\\Users\\LAYEFA\\Document\\tool\\Layefa-s-Console-Critter\\tool\\webb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LAYEFA\\AppData\\Roaming\\NuGet\\NuGet.Config"
